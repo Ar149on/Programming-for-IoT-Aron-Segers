@@ -1,0 +1,14 @@
+{
+      "ID": 645,
+      "Name": "SmartTrafficLights_bot",
+      "Type": "TelegramBot",
+      "Token": "6156164085:AAHgd35bBQskLsMLuSojVHm6oIO4XEe1z4M" ,
+      "zone": ["A","B"],
+      "status": "OK",
+      "availableServices": [
+        "REST"
+      ],
+      "Thingspeak": {
+        "url_read": "https://thingspeak.com/channels/2098201"
+      } 
+}

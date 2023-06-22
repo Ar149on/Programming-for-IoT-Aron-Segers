@@ -1,0 +1,16 @@
+{
+      "ID": "A_p_1",
+      "Name": "DFRobot_Digital_Button",
+      "Type": "PeoplePresence",
+      "zone": "A",
+      "status": "OK",
+      "availableServices": [
+        "MQTT"
+      ],
+      "servicesDetails": [
+        {
+          "serviceType": "MQTT",
+          "topic": "SmartTrafficLight/Sensor/A/1"
+        }
+      ]
+    }

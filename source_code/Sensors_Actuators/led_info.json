@@ -1,0 +1,1 @@
+{"ID": "A_led_1", "Name": "Traffic_light_LED", "Type": "LED", "zone": "A", "status": "OK", "availableServices": ["MQTT"], "servicesDetails": [{"serviceType": "MQTT", "topic": "SmartTrafficLight/Led/A/1", "topic_zone": "SmartTrafficLight/Led/A", "topicP": "SmartTrafficLight/Led/A/temp"}], "timer": 20, "duty_cycle": 5}
