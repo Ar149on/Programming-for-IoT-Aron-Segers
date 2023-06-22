@@ -21,3 +21,5 @@ Led Control and Led:
 Sensors:
 ![sensors](https://github.com/Ar149on/Programming-for-IoT-Aron-Segers/assets/137393414/e593ce61-43a0-4014-a680-f694daf50d49)
 
+Thingspeak:
+![THingspeak_adapter](https://github.com/Ar149on/Programming-for-IoT-Aron-Segers/assets/137393414/f11e8425-6a26-4fd5-bb5c-37db3cf27194)
