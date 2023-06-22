@@ -7,3 +7,6 @@ In this retake project following the course Programming for IoT:
 - Analysis/statistics through thingspeak is created
 
 I did not change the service and the resource catalog
+
+Screenshots of my Python terminals are shown below and in the powerpoint file.
+
